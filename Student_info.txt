@@ -1,0 +1,7 @@
+Student name: yasasvi
+Student course: BSc
+Major subject: computer Science 
+Student branch: Aditya Degree College,Tadepalligudem
+Suc Id: 2350250247
+
+
